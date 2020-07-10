@@ -1,0 +1,6 @@
+<map id="src/SDI12_boards.h" name="src/SDI12_boards.h">
+<area shape="rect" id="node1" title="This file defines the timing units needed for various Arduino boards." alt="" coords="67,5,213,32"/>
+<area shape="rect" id="node2" href="$_s_d_i12_8h.html" title="This file contains the main class for the SDI&#45;12 implementation." alt="" coords="5,80,128,107"/>
+<area shape="rect" id="node4" href="$_s_d_i12__boards_8cpp.html" title="This file implements the setting and unsetting of the proper prescalers for the timers for SDI&#45;12." alt="" coords="152,80,275,107"/>
+<area shape="rect" id="node3" href="$_s_d_i12_8cpp.html" title="This file implements the main class for the SDI&#45;12 implementation." alt="" coords="31,155,103,181"/>
+</map>
